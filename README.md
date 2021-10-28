@@ -1,8 +1,13 @@
-# MinecraftModdingFiles
-A downloadable Mod pack that is exported by IntelliJ IDE.
-The zipp file can be unzipped and contains all the modified Java files for Minecraft.
+#How to build and run:
+>Prerequisites:
+>Must Own Minecraft beforehand
 
-#Custom Items
+# Features
+Example features of the modified blocks that are included:
+##Custom Items
 Has custom Items and mods.
-
 Example of custom Items, and the Java code behind it:
+
+##Custom blocks
+
+##Sample Code:
