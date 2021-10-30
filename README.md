@@ -1,8 +1,6 @@
 # Minecraft Mod pack
 
- [TOCM]
-
-[TOC]
+- Created by Winsor Tse
 
 # Features & Items Demonstration:
 
