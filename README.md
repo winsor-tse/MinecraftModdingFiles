@@ -50,4 +50,6 @@ Example of custom Items, and the Java code behind it:
 
 ##Custom blocks
 
+![Alt Text] (https://media.giphy.com/media/FioA7gBdnWpln6Oh0I/giphy.gif)
+
 ##Sample Code:
