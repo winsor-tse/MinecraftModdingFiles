@@ -24,7 +24,7 @@ Go up one folder. You can use cmd+shift+Up arrow on mac. You should see all the 
 
 Find the folder called mods. If there isnt one, right click to create a new folder and name it mods.
 
-Drag and drop your mod jar file into this folder.
+Drag and drop your the mod jar into this folder.
 
 ![image](https://user-images.githubusercontent.com/89112285/139520508-c5002ffa-978e-428f-9d1c-77105ad4b1de.png)
 
