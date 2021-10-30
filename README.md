@@ -1,12 +1,12 @@
 # How to build and run:
->Prerequisites:
->Must Own Minecraft beforehand
-Mods can be installed onto regular Java Edition Minecraft. Follow these steps to install forge onto your computer and add your mod to Minecraft!
-Click this link below:
+-Prerequisites:
+-Must Own Minecraft beforehand
+-Mods can be installed onto regular Java Edition Minecraft. Follow these steps to install forge onto your computer and add your mod to Minecraft!
+-Click this link below:
 >https://files.minecraftforge.net/net/minecraftforge/forge/index_1.17.1.html
-Select Installer to download the Forge Installer.
-Once Downloaded, double click on the file to install it.
-Select Install Client and then Ok, and let Forge install.
+-Select Installer to download the Forge Installer.
+-Once Downloaded, double click on the file to install it.
+-Select Install Client and then Ok, and let Forge install.
 
 ![image](https://user-images.githubusercontent.com/89112285/139520490-fdd7f2a5-a14f-4d8b-a8c5-39be8f092f1c.png)
 
